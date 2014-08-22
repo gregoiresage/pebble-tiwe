@@ -1,0 +1,14 @@
+{
+  "uuid": "205e4117-1b69-442b-b945-f4abc84bf09c",
+  "shortName": "Tiwe",
+  "longName": "Tiwe",
+  "companyName": "Gregoire Sage",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "resources": {
+    "media": []
+  }
+}
